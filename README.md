@@ -1,7 +1,6 @@
 <h1 align="center">👋 Olá, sou o David dos Santos</h1>
 
 <p align="center">
-  Técnico de Informática 💻 · Finalista de Engenharia Informática 🎓<br>
   Desenvolvimento Web · Bases de Dados · Redes
 </p>
 
@@ -13,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=java,php,python,html,css,mysql&perline=6" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,bootstrap,git,github,linux,apache&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,git,github,linux,apache&perline=6" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Redes-Cisco%20%7C%20TCP%2FIP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
