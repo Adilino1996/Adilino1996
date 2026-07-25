@@ -32,7 +32,9 @@
 - 🐍 Projetos em Python
 
 ### 📫 Connect with me
-
+ 
 <p align="center">
+  <a href="https://www.linkedin.com/in/david-dos-santos-702219425"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  &nbsp;
   <a href="mailto:Daviddossantos250@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
