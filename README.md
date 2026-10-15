@@ -2,7 +2,9 @@
 
 <p align="center">
   Desenvolvimento Web · Bases de Dados · Redes
-  🌐 [Ver o meu portfólio](https://adilino1996.github.io/)
+</p>
+<p align="center">
+  🌐 Ver o meu portfólio (https://adilino1996.github.io/)
 </p>
 
 ---
